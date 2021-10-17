@@ -65,7 +65,7 @@ header .navbar li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/Users/raoulmaoulida/Documents/Cours/Projet/Benzema.jpg); 
+    background-image: url(Benzema.jpg); 
     background-size: cover;
 }
  .banniere .contenu {
@@ -214,7 +214,7 @@ tbody tr:nth-child(event){
     background-color: #f3f3f3;
 }
 .contact{
-    background-image: url(/Users/raoulmaoulida/Documents/Cours/Projet/dubai.jpg);
+    background-image: url(dubai.jpg);
     background-size: cover;
     box-shadow: 2px 2px 12px black ;
     width: 100%;
